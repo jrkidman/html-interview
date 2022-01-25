@@ -1,0 +1,31 @@
+img {height:250px;
+    width:250px;
+    border-radius:50px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: solid #145369;
+}
+
+div {border-color:#145369;
+    border-style:solid;
+    width:900px;
+    margin:auto;
+    padding:25px;
+    border-width: 15px;
+    background-color:#96be25;
+    box-shadow: 10px 10px 10px gray;
+}
+
+li {margin:10px;
+    font-style:italic;
+}
+
+body {background-image: url(https://i.pinimg.com/originals/2c/f0/cc/2cf0cce180d665e275d8fe5b05e61dd9.jpg);
+}
+
+h1,h2 {font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+
